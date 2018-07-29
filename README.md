@@ -1,2 +1,2 @@
 # sfml
-Qt+sfml
+Qt + sfml
